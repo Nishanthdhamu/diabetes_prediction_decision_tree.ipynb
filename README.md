@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishanthdhamu
+- 👋 Hi, I’m Nishanth
 - 👀 I’m interested in Data Science and Machine Learning using Python
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on ...
